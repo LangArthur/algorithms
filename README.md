@@ -10,3 +10,7 @@ I will try to make all this algorithms the most generic possible.
 ### Array
 
 - Prefix sum
+
+### Optimization
+
+- simulated algorithm (Non functional yet)
