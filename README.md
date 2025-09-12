@@ -13,4 +13,4 @@ I will try to make all this algorithms the most generic possible.
 
 ### Optimization
 
-- simulated algorithm (Non functional yet)
+- simulated annealing algorithm
